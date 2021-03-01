@@ -34,11 +34,12 @@ li {
 }
 .column-left img {
     width: 100%;
-    height: 5%;
+    height: 20rem;
 }
 
 .column-left .hobbies-images img{
-    height: 500px;
+    height: 20rem;
+    margin: 1em 0;
 }
 
 .column-right {
@@ -46,7 +47,17 @@ li {
   padding: 20px;
   width: 65%;
 }
+
+.column-right img{
+  height: 20rem;
+  width: 100%;
+}
+
 footer {
+  text-align: center;
   background-color: rgb(218, 218, 218);
-  margin-top: -10px;
+}
+footer p{
+  padding: 10px;
+  margin: 0;
 }
