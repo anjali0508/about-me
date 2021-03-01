@@ -1,0 +1,21 @@
+header h1,h3{
+    text-align: center;
+}
+nav{
+    display: flex;
+    color: white;
+    background-color:#333;
+}
+ul{
+    display: flex;
+}
+li{
+    margin-right: 10%;
+    /* display: inline; */
+}
+.row{
+    display: flex;
+}
+.column{
+    width: 50%;
+}
