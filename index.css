@@ -20,7 +20,7 @@ ul {
   padding: 10px;
 }
 li {
-  margin-right: 5%;
+  margin-right: 5px;
   list-style-type: none;
 }
 .row {
@@ -33,13 +33,13 @@ li {
   width: 35%;
 }
 .column-left img {
-    width: 100%;
-    height: 20rem;
+  width: 100%;
+  height: 20rem;
 }
 
-.column-left .hobbies-images img{
-    height: 20rem;
-    margin: 1em 0;
+.column-left .hobbies-images img {
+  height: 20rem;
+  margin: 1em 0;
 }
 
 .column-right {
@@ -48,7 +48,7 @@ li {
   width: 65%;
 }
 
-.column-right img{
+.column-right img {
   height: 20rem;
   width: 100%;
 }
@@ -57,7 +57,8 @@ footer {
   text-align: center;
   background-color: rgb(218, 218, 218);
 }
-footer p{
+
+footer p {
   padding: 10px;
   margin: 0;
 }
