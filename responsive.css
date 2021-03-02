@@ -1,0 +1,19 @@
+@media screen and (max-width: 24rem) {
+  main {
+    flex-direction: column;
+  }
+  .column-left {
+    width: auto;
+  }
+  .column-right {
+    width: auto;
+  }
+  ul {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  ul li {
+    font-size: 1.2rem;
+    padding: 0.3rem;
+  }
+}
